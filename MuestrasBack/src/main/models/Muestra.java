@@ -1,12 +1,31 @@
 import java.util.Date;
 import java.util.Properties;
 
+import javax.annotation.Generated;
+import javax.persistence.Column;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "Muestra")
 public class Muestra {
 
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(unique = true, nullable = false)
     private Long idMuestra;
+
+    @Column(unique = true, nullable = false)
     private string codMuestra;
+
+    @Column(nullable = false)
     private string tipoMuestra;
+
+    @Column(nullable = false)
     private string empresa;
+
+    @Column(nullable = false)
     private Date fechaCrDate;
 
     public Muestra() {
