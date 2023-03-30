@@ -1,10 +1,15 @@
+import Models.Muestra;
+import Repositories.MuestraRepository;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 
+import java.util.Date;
+
 
 @DataJpaTest
 public class myUnitTest {
+
 
 
     @Autowired
@@ -30,8 +35,12 @@ public class myUnitTest {
 
         * */
 
-        Muestra m = new Muestra();
+        //(String codMuestra, String tipoMuestra, String empresa, Date fechaCrDate)
 
+        Muestra m = new Muestra("A-22/00001", "Vegetal", "AGQ");
+
+
+        Muestra encontrada = muestraRepo.findByCodMuestra("A-22/00001");
 
 
     }
