@@ -1,11 +1,10 @@
+package org.example.models;
+
 import java.util.Date;
 import java.util.Properties;
 
 import javax.annotation.Generated;
-import javax.persistence.Column;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 @Entity
 @Table(name = "Muestra")

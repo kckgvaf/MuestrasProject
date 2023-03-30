@@ -165,12 +165,11 @@
   
   <modules>
           
-    
-    <module>PracticaMuestra-frontend</module>
+
           
     
-    <module>PracticaMuestra-backend</module>
-      
+    <module>MuestrasBack</module>
+
   </modules>
   
 </project>

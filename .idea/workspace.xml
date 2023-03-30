@@ -4,11 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4aa08328-7bd9-4db9-8327-30237cfdd4b9" name="Changes" comment="" />
+    <list default="true" id="4aa08328-7bd9-4db9-8327-30237cfdd4b9" name="Changes" comment="primer commit">
+      <change afterPath="$PROJECT_DIR$/MuestrasBack/src/test/java/myUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/java/org/example/business/BookmarkBC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/java/org/example/constant/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/java/org/example/domain/Bookmark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/java/org/example/exception/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/java/org/example/message/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/java/org/example/persistence/BookmarkDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/java/org/example/util/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/java/org/example/view/BookmarkEditMB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/java/org/example/view/BookmarkListMB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/resources/ValidationMessages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/resources/demoiselle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/resources/messages_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/WEB-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/WEB-INF/faces-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/bookmark_edit.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/bookmark_list.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/images/locale_en.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/images/locale_pt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/menu.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/main/webapp/template/main.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/test/java/org/example/business/BookmarkBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/test/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/test/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuestrasFront/src/test/resources/demoiselle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/src/main/java/com/agq/apiagqback/ApiagqBackApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/src/main/java/com/agq/apiagqback/Controllers/MuestraController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/src/main/java/com/agq/apiagqback/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/src/main/java/com/agq/apiagqback/models/Muestra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/src/main/java/com/agq/apiagqback/repositories/MuestraRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/src/main/java/com/agq/apiagqback/services/MuestraServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiagq-back/src/test/java/com/agq/apiagqback/ApiagqBackApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -26,7 +94,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "C:/Users/alumno/Documents/Projects/PracticaMuestra/MuestrasBack"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,5 +110,9 @@
       <updated>1680109950565</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
   </component>
 </project>
